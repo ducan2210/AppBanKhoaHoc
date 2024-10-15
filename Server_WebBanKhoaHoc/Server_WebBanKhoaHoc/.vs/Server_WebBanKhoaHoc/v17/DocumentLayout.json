@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ducan\\OneDrive\\M\u00E1y t\u00EDnh\\appmobile\\Server_WebBanKhoaHoc\\Server_WebBanKhoaHoc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2721C41-D8A7-43E3-8C71-1F67E0CB5E29}|Server_WebBanKhoaHoc\\Server_WebBanKhoaHoc.csproj|c:\\users\\ducan\\onedrive\\m\u00E1y t\u00EDnh\\appmobile\\server_webbankhoahoc\\server_webbankhoahoc\\server_webbankhoahoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2721C41-D8A7-43E3-8C71-1F67E0CB5E29}|Server_WebBanKhoaHoc\\Server_WebBanKhoaHoc.csproj|solutionrelative:server_webbankhoahoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2721C41-D8A7-43E3-8C71-1F67E0CB5E29}|Server_WebBanKhoaHoc\\Server_WebBanKhoaHoc.csproj|c:\\users\\ducan\\onedrive\\m\u00E1y t\u00EDnh\\appmobile\\server_webbankhoahoc\\server_webbankhoahoc\\server_webbankhoahoc\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2721C41-D8A7-43E3-8C71-1F67E0CB5E29}|Server_WebBanKhoaHoc\\Server_WebBanKhoaHoc.csproj|solutionrelative:server_webbankhoahoc\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2721C41-D8A7-43E3-8C71-1F67E0CB5E29}|Server_WebBanKhoaHoc\\Server_WebBanKhoaHoc.csproj|c:\\users\\ducan\\onedrive\\m\u00E1y t\u00EDnh\\appmobile\\server_webbankhoahoc\\server_webbankhoahoc\\server_webbankhoahoc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B2721C41-D8A7-43E3-8C71-1F67E0CB5E29}|Server_WebBanKhoaHoc\\Server_WebBanKhoaHoc.csproj|solutionrelative:server_webbankhoahoc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2721C41-D8A7-43E3-8C71-1F67E0CB5E29}|Server_WebBanKhoaHoc\\Server_WebBanKhoaHoc.csproj|c:\\users\\ducan\\onedrive\\m\u00E1y t\u00EDnh\\appmobile\\server_webbankhoahoc\\server_webbankhoahoc\\server_webbankhoahoc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B2721C41-D8A7-43E3-8C71-1F67E0CB5E29}|Server_WebBanKhoaHoc\\Server_WebBanKhoaHoc.csproj|solutionrelative:server_webbankhoahoc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2721C41-D8A7-43E3-8C71-1F67E0CB5E29}|Server_WebBanKhoaHoc\\Server_WebBanKhoaHoc.csproj|c:\\users\\ducan\\onedrive\\m\u00E1y t\u00EDnh\\appmobile\\server_webbankhoahoc\\server_webbankhoahoc\\server_webbankhoahoc\\controllers\\giangviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2721C41-D8A7-43E3-8C71-1F67E0CB5E29}|Server_WebBanKhoaHoc\\Server_WebBanKhoaHoc.csproj|solutionrelative:server_webbankhoahoc\\controllers\\giangviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2721C41-D8A7-43E3-8C71-1F67E0CB5E29}|Server_WebBanKhoaHoc\\Server_WebBanKhoaHoc.csproj|c:\\users\\ducan\\onedrive\\m\u00E1y t\u00EDnh\\appmobile\\server_webbankhoahoc\\server_webbankhoahoc\\server_webbankhoahoc\\controllers\\khoahoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2721C41-D8A7-43E3-8C71-1F67E0CB5E29}|Server_WebBanKhoaHoc\\Server_WebBanKhoaHoc.csproj|solutionrelative:server_webbankhoahoc\\controllers\\khoahoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ducan\\OneDrive\\M\u00E1y t\u00EDnh\\appmobile\\Server_WebBanKhoaHoc\\Server_WebBanKhoaHoc\\Server_WebBanKhoaHoc\\appsettings.json",
+              "RelativeDocumentMoniker": "Server_WebBanKhoaHoc\\appsettings.json",
+              "ToolTip": "C:\\Users\\ducan\\OneDrive\\M\u00E1y t\u00EDnh\\appmobile\\Server_WebBanKhoaHoc\\Server_WebBanKhoaHoc\\Server_WebBanKhoaHoc\\appsettings.json",
+              "RelativeToolTip": "Server_WebBanKhoaHoc\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-02T23:43:35.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\ducan\\OneDrive\\M\u00E1y t\u00EDnh\\appmobile\\Server_WebBanKhoaHoc\\Server_WebBanKhoaHoc\\Server_WebBanKhoaHoc\\Startup.cs",
+              "RelativeDocumentMoniker": "Server_WebBanKhoaHoc\\Startup.cs",
+              "ToolTip": "C:\\Users\\ducan\\OneDrive\\M\u00E1y t\u00EDnh\\appmobile\\Server_WebBanKhoaHoc\\Server_WebBanKhoaHoc\\Server_WebBanKhoaHoc\\Startup.cs",
+              "RelativeToolTip": "Server_WebBanKhoaHoc\\Startup.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T23:43:26.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ducan\\OneDrive\\M\u00E1y t\u00EDnh\\appmobile\\Server_WebBanKhoaHoc\\Server_WebBanKhoaHoc\\Server_WebBanKhoaHoc\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Server_WebBanKhoaHoc\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ducan\\OneDrive\\M\u00E1y t\u00EDnh\\appmobile\\Server_WebBanKhoaHoc\\Server_WebBanKhoaHoc\\Server_WebBanKhoaHoc\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Server_WebBanKhoaHoc\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-02T23:43:08.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ducan\\OneDrive\\M\u00E1y t\u00EDnh\\appmobile\\Server_WebBanKhoaHoc\\Server_WebBanKhoaHoc\\Server_WebBanKhoaHoc\\Program.cs",
+              "RelativeDocumentMoniker": "Server_WebBanKhoaHoc\\Program.cs",
+              "ToolTip": "C:\\Users\\ducan\\OneDrive\\M\u00E1y t\u00EDnh\\appmobile\\Server_WebBanKhoaHoc\\Server_WebBanKhoaHoc\\Server_WebBanKhoaHoc\\Program.cs",
+              "RelativeToolTip": "Server_WebBanKhoaHoc\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T23:42:58.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GiangVienController.cs",
+              "DocumentMoniker": "C:\\Users\\ducan\\OneDrive\\M\u00E1y t\u00EDnh\\appmobile\\Server_WebBanKhoaHoc\\Server_WebBanKhoaHoc\\Server_WebBanKhoaHoc\\Controllers\\GiangVienController.cs",
+              "RelativeDocumentMoniker": "Server_WebBanKhoaHoc\\Controllers\\GiangVienController.cs",
+              "ToolTip": "C:\\Users\\ducan\\OneDrive\\M\u00E1y t\u00EDnh\\appmobile\\Server_WebBanKhoaHoc\\Server_WebBanKhoaHoc\\Server_WebBanKhoaHoc\\Controllers\\GiangVienController.cs",
+              "RelativeToolTip": "Server_WebBanKhoaHoc\\Controllers\\GiangVienController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAADcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T06:28:49.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KhoaHocController.cs",
+              "DocumentMoniker": "C:\\Users\\ducan\\OneDrive\\M\u00E1y t\u00EDnh\\appmobile\\Server_WebBanKhoaHoc\\Server_WebBanKhoaHoc\\Server_WebBanKhoaHoc\\Controllers\\KhoaHocController.cs",
+              "RelativeDocumentMoniker": "Server_WebBanKhoaHoc\\Controllers\\KhoaHocController.cs",
+              "ToolTip": "C:\\Users\\ducan\\OneDrive\\M\u00E1y t\u00EDnh\\appmobile\\Server_WebBanKhoaHoc\\Server_WebBanKhoaHoc\\Server_WebBanKhoaHoc\\Controllers\\KhoaHocController.cs",
+              "RelativeToolTip": "Server_WebBanKhoaHoc\\Controllers\\KhoaHocController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAwwDcBAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T06:01:28.81Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Release\net5.0\PubTmp\Out\Server_WebBanKhoaHoc.exe
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Release\net5.0\PubTmp\Out\appsettings.json
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Release\net5.0\PubTmp\Out\Server_WebBanKhoaHoc.dll
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Release\net5.0\PubTmp\Out\Server_WebBanKhoaHoc.deps.json
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Release\net5.0\PubTmp\Out\Server_WebBanKhoaHoc.runtimeconfig.json
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Release\net5.0\PubTmp\Out\Server_WebBanKhoaHoc.pdb
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

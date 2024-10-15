@@ -1,0 +1,386 @@
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\appsettings.Development.json
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\appsettings.json
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Server_WebBanKhoaHoc.exe
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Server_WebBanKhoaHoc.deps.json
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Server_WebBanKhoaHoc.runtimeconfig.json
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Server_WebBanKhoaHoc.runtimeconfig.dev.json
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Server_WebBanKhoaHoc.dll
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\ref\Server_WebBanKhoaHoc.dll
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Server_WebBanKhoaHoc.pdb
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Humanizer.dll
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.csproj.AssemblyReference.cache
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.GeneratedMSBuildEditorConfig.editorconfig
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.AssemblyInfoInputs.cache
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.AssemblyInfo.cs
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.csproj.CoreCompileInputs.cache
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.MvcApplicationPartsAssemblyInfo.cs
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.MvcApplicationPartsAssemblyInfo.cache
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\staticwebassets\Server_WebBanKhoaHoc.StaticWebAssets.Manifest.cache
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\staticwebassets\Server_WebBanKhoaHoc.StaticWebAssets.xml
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\scopedcss\bundle\Server_WebBanKhoaHoc.styles.css
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.RazorTargetAssemblyInfo.cache
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.csproj.CopyComplete
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.dll
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\ref\Server_WebBanKhoaHoc.dll
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.pdb
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.genruntimeconfig.cache
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\BouncyCastle.Cryptography.dll
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\MailKit.dll
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\MimeKit.dll
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Formats.Asn1.dll
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+E:\-----------NAM---4\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+E:\-----------NAM---4\KI-------------1\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.csproj.AssemblyReference.cache
+E:\-----------NAM---4\KI-------------1\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.GeneratedMSBuildEditorConfig.editorconfig
+E:\-----------NAM---4\KI-------------1\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.AssemblyInfoInputs.cache
+E:\-----------NAM---4\KI-------------1\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.AssemblyInfo.cs
+E:\-----------NAM---4\KI-------------1\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.csproj.CoreCompileInputs.cache
+E:\-----------NAM---4\KI-------------1\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.MvcApplicationPartsAssemblyInfo.cs
+E:\-----------NAM---4\KI-------------1\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.MvcApplicationPartsAssemblyInfo.cache
+E:\-----------NAM---4\KI-------------1\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.dll
+E:\-----------NAM---4\KI-------------1\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\ref\Server_WebBanKhoaHoc.dll
+E:\-----------NAM---4\KI-------------1\DoAnTotNghiep_WebBanKhoaHoc\Server\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.pdb
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.AssemblyInfoInputs.cache
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.AssemblyInfo.cs
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.csproj.CoreCompileInputs.cache
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.dll
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\ref\Server_WebBanKhoaHoc.dll
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.pdb
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\appsettings.json
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Server_WebBanKhoaHoc.exe
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Server_WebBanKhoaHoc.deps.json
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Server_WebBanKhoaHoc.runtimeconfig.json
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Server_WebBanKhoaHoc.runtimeconfig.dev.json
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Server_WebBanKhoaHoc.dll
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\ref\Server_WebBanKhoaHoc.dll
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Server_WebBanKhoaHoc.pdb
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\BouncyCastle.Cryptography.dll
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\MailKit.dll
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\MimeKit.dll
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Formats.Asn1.dll
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\staticwebassets\Server_WebBanKhoaHoc.StaticWebAssets.Manifest.cache
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\staticwebassets\Server_WebBanKhoaHoc.StaticWebAssets.xml
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\scopedcss\bundle\Server_WebBanKhoaHoc.styles.css
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.RazorTargetAssemblyInfo.cache
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.csproj.CopyComplete
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.genruntimeconfig.cache
+C:\Users\ducan\Downloads\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.csproj.AssemblyReference.cache
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\appsettings.json
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Server_WebBanKhoaHoc.exe
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Server_WebBanKhoaHoc.deps.json
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Server_WebBanKhoaHoc.runtimeconfig.json
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Server_WebBanKhoaHoc.runtimeconfig.dev.json
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Server_WebBanKhoaHoc.dll
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\ref\Server_WebBanKhoaHoc.dll
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Server_WebBanKhoaHoc.pdb
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\BouncyCastle.Cryptography.dll
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\MailKit.dll
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\MimeKit.dll
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Formats.Asn1.dll
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.csproj.AssemblyReference.cache
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.AssemblyInfoInputs.cache
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.AssemblyInfo.cs
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.csproj.CoreCompileInputs.cache
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\staticwebassets\Server_WebBanKhoaHoc.StaticWebAssets.Manifest.cache
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\staticwebassets\Server_WebBanKhoaHoc.StaticWebAssets.xml
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\scopedcss\bundle\Server_WebBanKhoaHoc.styles.css
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.RazorTargetAssemblyInfo.cache
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.csproj.CopyComplete
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.dll
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\ref\Server_WebBanKhoaHoc.dll
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.pdb
+C:\Users\Min Chou\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.genruntimeconfig.cache
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\ref\Server_WebBanKhoaHoc.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.pdb
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\appsettings.json
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Server_WebBanKhoaHoc.exe
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Server_WebBanKhoaHoc.deps.json
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Server_WebBanKhoaHoc.runtimeconfig.json
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Server_WebBanKhoaHoc.runtimeconfig.dev.json
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Server_WebBanKhoaHoc.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\ref\Server_WebBanKhoaHoc.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Server_WebBanKhoaHoc.pdb
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\BouncyCastle.Cryptography.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\MailKit.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\MimeKit.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Formats.Asn1.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.csproj.AssemblyReference.cache
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.AssemblyInfoInputs.cache
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.AssemblyInfo.cs
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.csproj.CoreCompileInputs.cache
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\staticwebassets\Server_WebBanKhoaHoc.StaticWebAssets.Manifest.cache
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\staticwebassets\Server_WebBanKhoaHoc.StaticWebAssets.xml
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\scopedcss\bundle\Server_WebBanKhoaHoc.styles.css
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.RazorTargetAssemblyInfo.cache
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.csproj.CopyComplete
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.genruntimeconfig.cache
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\FirebaseAdmin.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Firebase.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Firebase.Storage.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Google.Api.Gax.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Google.Api.Gax.Rest.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Google.Apis.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Google.Apis.Auth.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Google.Apis.Core.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\LiteDB.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Collections.Immutable.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Management.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Reactive.dll
+C:\Users\ducan\OneDrive\Máy tính\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\appsettings.json
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Server_WebBanKhoaHoc.exe
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Server_WebBanKhoaHoc.deps.json
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Server_WebBanKhoaHoc.runtimeconfig.json
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Server_WebBanKhoaHoc.runtimeconfig.dev.json
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Server_WebBanKhoaHoc.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Server_WebBanKhoaHoc.pdb
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\BouncyCastle.Cryptography.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\FirebaseAdmin.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Firebase.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Firebase.Storage.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Google.Api.Gax.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Google.Api.Gax.Rest.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Google.Apis.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Google.Apis.Auth.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Google.Apis.Core.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\LiteDB.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\MailKit.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\MimeKit.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Collections.Immutable.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Formats.Asn1.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Management.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Reactive.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.csproj.AssemblyReference.cache
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.AssemblyInfoInputs.cache
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.AssemblyInfo.cs
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.csproj.CoreCompileInputs.cache
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\staticwebassets\Server_WebBanKhoaHoc.StaticWebAssets.Manifest.cache
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\scopedcss\bundle\Server_WebBanKhoaHoc.styles.css
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.RazorTargetAssemblyInfo.cache
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\ref\Server_WebBanKhoaHoc.dll
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.pdb
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_WebBanKhoaHoc.genruntimeconfig.cache
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\staticwebassets\Server_WebBanKhoaHoc.StaticWebAssets.Pack.cache
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\staticwebassets\msbuild.Server_WebBanKhoaHoc.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\staticwebassets\msbuild.build.Server_WebBanKhoaHoc.props
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Server_WebBanKhoaHoc.props
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Server_WebBanKhoaHoc.props
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\Server_W.D0681576.Up2Date
+C:\Users\ducan\OneDrive\Máy tính\appmobile\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\Server_WebBanKhoaHoc\obj\Debug\net5.0\refint\Server_WebBanKhoaHoc.dll
